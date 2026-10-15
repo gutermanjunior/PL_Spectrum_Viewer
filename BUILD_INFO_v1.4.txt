@@ -1,0 +1,9 @@
+PL Spectrum Viewer v1.4
+Data: 13/10/2026
+Base: PL Spectrum Viewer v1.3.2
+Sinal original: V (confirmado pelo usuário); opções de exibição V/mV.
+Comprimento de onda: nm (interno); exibição nm/Å.
+GUI: PySide6, não executada neste ambiente.
+Testes automatizados: 62 aprovados (pytest).
+Exemplos: vetoriais PDF/SVG, PNG e JSON em duas escolhas de unidade.
+Autoridade científica: sem reprocessamento físico nem atribuição de emissões; fatores ×f são visuais.

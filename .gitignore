@@ -1,0 +1,55 @@
+# PL Spectrum Viewer — baseline de versionamento (2026-10-15)
+# Revisar a política de dados ANTES de publicar o repositório.
+
+# Python / virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.python-version.local
+
+# Testing and tooling
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.tox/
+.nox/
+.coverage
+.coverage.*
+htmlcov/
+
+# Builds and installers
+build/
+dist/
+*.egg-info/
+*.exe
+*.msi
+
+# Local settings, logs, secrets
+.env
+.env.*
+!.env.example
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Platform / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Experimental records and figures require prior authorization.
+# Existing tests in tests/ depend on one ZIP from this directory!
+# With this exclusion the full suite requires restoring that ZIP locally.
+exemplos/
+
+# Other locally generated scientific datasets (adjust to actual folders)
+data/raw/
+dados_brutos/
+dados_privados/
+
+# Distribution archives go into GitHub Releases, not the source tree.
+*.zip

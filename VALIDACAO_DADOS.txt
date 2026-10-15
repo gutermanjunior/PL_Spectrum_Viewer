@@ -1,0 +1,18 @@
+Aquisições: 13
+Arquivos examinados: 26
+Duplicatas binário/DAT verificadas: 13
+Arquivos ignorados: 0; erros: 0
+Amostras detectadas: 4573, 4574, 4575, 4576, 4577
+      4573 | fenda(nome)=50.0µm | lock-in=500.0mV | pontos=301 | pico=784.5nm | avisos=3
+      4573 | fenda(nome)=62.0µm | lock-in=200.0mV | pontos=301 | pico=784.5nm | avisos=3
+      4573 | fenda(nome)=90.0µm | lock-in=500.0mV | pontos=301 | pico=784.5nm | avisos=3
+      4574 | fenda(nome)=300.0µm | lock-in=200.0mV | pontos=301 | pico=824.5nm | avisos=3
+      4574 | fenda(nome)=1000.0µm | lock-in=500.0mV | pontos=401 | pico=824.5nm | avisos=3
+      4575 | fenda(nome)=300.0µm | lock-in=200.0mV | pontos=401 | pico=824.5nm | avisos=3
+      4575 | fenda(nome)=1000.0µm | lock-in=500.0mV | pontos=401 | pico=824.0nm | avisos=4
+      4576 | fenda(nome)=300.0µm | lock-in=200.0mV | pontos=401 | pico=824.5nm | avisos=3
+      4576 | fenda(nome)=1000.0µm | lock-in=500.0mV | pontos=401 | pico=824.5nm | avisos=3
+      4577 | fenda(nome)=90.0µm | lock-in=500.0mV | pontos=301 | pico=824.5nm | avisos=3
+      4577 | fenda(nome)=300.0µm | lock-in=50.0mV | pontos=301 | pico=821.0nm | avisos=4
+      4577 | fenda(nome)=300.0µm | lock-in=100.0mV | pontos=301 | pico=824.0nm | avisos=3
+      4577 | fenda(nome)=1000.0µm | lock-in=500.0mV | pontos=401 | pico=824.0nm | avisos=3

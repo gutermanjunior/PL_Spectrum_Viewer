@@ -1,0 +1,10 @@
+PL Spectrum Viewer — versão 1.5
+Fonte original: PL_Spectrum_Viewer_v1_4_1_Layout_Responsivo.zip
+SHA-256 da fonte: 69044bc11bf2db73548fc05cfa97a433b9802ef826803b433cba907b2c79d3b6
+Mudanças: modos de composição de subgráficos 1x1/1x2/2x1/2x2, seleção e formatação individual
+por painel, eixos compartilhados, nota de figura no painel (a), título/subtítulo/nota opcionais.
+Preservadas: preview Qt responsiva, exportação em figura separada, dados V/nm, CSV bruto, leitura nome-primeiro.
+Dependências: PySide6>=6.6,<7; matplotlib>=3.8,<4; numpy>=1.26,<3; testes também usam pytest e PyMuPDF.
+Entrada de exemplo: exemplos/20261009 PL 4573-4574-4575-4576-4577.zip
+Verificação: 78 testes headless; GUI PySide6 não testada interativamente neste ambiente.
+Saídas esperadas: gráficos compostos e exportações PDF/SVG vetoriais; não há simulação física.

@@ -1,0 +1,11 @@
+PL Spectrum Viewer v1.4.1
+Data: 2026-10-13
+Base: PL_Spectrum_Viewer_v1_4_Formatacao_Unidades_Legendas.zip
+Correção: separar tamanho responsivo da pré-visualização Qt e figura de exportação.
+Mudanças: gui.py (QSplitter, canvas, barra de exportação, renderização separada); plotting.py (resize_figure, create_export_figure); tests/test_v141.py; README e changelog.
+Dados brutos: não modificados.
+Unidades: interno X nm e Y V; na tela nm/Å e V/mV como na v1.4.
+Compatibilidade: sessões de edições anteriores mantidas; API render_plot mantém resize_figure=True por padrão para os scripts existentes.
+Testes: 68/68 aprovados com pytest neste ambiente (6 novos, 62 anteriores).
+Qt/PySide6: interface NÃO testada interativamente. PySide6 indisponível no ambiente, instalação impedida por rede.
+Status: correção implementada/validada em núcleo; comportamento final da GUI deve ser verificado no Windows.

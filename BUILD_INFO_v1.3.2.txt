@@ -1,0 +1,7 @@
+PL Spectrum Viewer v1.3.2
+Data de construção: 13/10/2026
+Base: PL_Spectrum_Viewer_v1_3_1_Cores_Ordem_Selecao.zip
+SHA-256 do arquivo-base: b9446d2d5c7a92192f90279917ff9837252852f810edf3b1b55d3fca3d5c5775
+Mudanças: referências horizontais Y; leitura prioritária de amostra/fendas/T/mV do nome atual; campo auxiliar entre parênteses.
+Testes: 48 aprovados (pytest; interface PySide6 não executada).
+Metadados instrumentais originais preservados para conferência; sem calibração instrumental.
